@@ -10,6 +10,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    padding-bottom: 300px;
 }
 /*上面是背景設定下面是class設定*/
 .center{
@@ -33,6 +34,7 @@ body{
 .text{
     color: black;
 }
+
 @media (max-width:1250px){
     .list{
         flex-wrap:wrap;
